@@ -63,6 +63,9 @@ typora-copy-images-to: img
 [^6]: Yuan Y, Wang J. Ocnet: Object context network for scene parsing[J]. arXiv preprint arXiv:1809.00916, 2018.
 
 [^7]: Lin K, Jiang N, Cheong L F, et al. Seagull: Seam-guided local alignment for parallax-tolerant image stitching[C]//European Conference on Computer Vision. Springer, Cham, 2016: 370-385.
+
 [^8]: Long J, Shelhamer E, Darrell T. Fully convolutional networks for semantic segmentation[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2015: 3431-3440.
+
 [^9]: Herrmann C, Wang C, Strong Bowen R, et al. Object-centered image stitching[C]//Proceedings of the European Conference on Computer Vision (ECCV). 2018: 821-835.
+
 [^10]: Wang Q, Zhang L, Bertinetto L, et al. Fast Online Object Tracking and Segmentation: A Unifying Approach[J]. arXiv preprint arXiv:1812.05050, 2018.
